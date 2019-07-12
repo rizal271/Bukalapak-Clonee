@@ -1,1 +1,1 @@
-export const localServer = 'http://localhost:3000'
+export const localServer = 'http://my-json-server.typicode.com/Drzaln/demo'
